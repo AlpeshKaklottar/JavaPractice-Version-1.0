@@ -1,10 +1,12 @@
 class Armstrongnumber
 { 
+        	//main branch
+
         //custom branch
         private static boolean findArmStrongNumber(int i)
         {
+		            int[] digit = findDigitFromInt(i);
 
-                int[] digit = findDigitFromInt(i);
                 if(((digit[0]*digit[0]*digit[0])+(digit[1]*digit[1]*digit[1])+(digit[2]*digit[2]*digit[2]))==i)
                         return true;
                 else
