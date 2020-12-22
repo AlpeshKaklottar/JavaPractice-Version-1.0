@@ -1,5 +1,6 @@
 class Armstrongnumber
 { 
+        //custom branch
         private static boolean findArmStrongNumber(int i)
         {
 
