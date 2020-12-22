@@ -1,5 +1,6 @@
 class Armstrongnumber
 {
+	//main branch
 	private boolean findArmStrongNumber(int i)
 	{
 			
