@@ -29,5 +29,7 @@ class Armstrongnumber
                                 System.out.println("Given number is Arm strong number = "+ num);
                         else
                                 System.out.println("Given number isn't Arm strong number = "+ num);
+		
+		
         }
 }
